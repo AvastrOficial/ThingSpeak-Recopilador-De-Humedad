@@ -10,6 +10,8 @@ Este proyecto utiliza un ESP32 para leer datos de temperatura, humedad y presió
 - **Buzzer**: Genera una señal sonora cuando las condiciones de temperatura o humedad exceden ciertos umbrales.
 - **ThingSpeak**: Plataforma para almacenar y visualizar los datos de sensores en tiempo real.
 
+![image](https://github.com/user-attachments/assets/63c1b395-908c-4f75-afbf-c2dcdb990c3e)
+
 ## Funcionamiento
 
 1. **Conexión Wi-Fi**: El ESP32 se conecta a la red Wi-Fi configurada en el código.
@@ -45,5 +47,5 @@ Este proyecto utiliza un ESP32 para leer datos de temperatura, humedad y presió
 3. Reemplaza los valores de `channelID` y `WriteAPIKey` en el código con tus credenciales de ThingSpeak.
 ![image](https://github.com/user-attachments/assets/35a25bac-58af-4668-91e9-289e4bec4e59)
 
-![image](https://github.com/user-attachments/assets/63c1b395-908c-4f75-afbf-c2dcdb990c3e)
+
 
