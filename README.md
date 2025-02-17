@@ -43,7 +43,7 @@ Este proyecto utiliza un ESP32 para leer datos de temperatura, humedad y presió
 1. Crea una cuenta en [ThingSpeak](https://thingspeak.com/).
 2. Crea un nuevo canal y copia el `Channel ID` y el `Write API Key`.
 3. Reemplaza los valores de `channelID` y `WriteAPIKey` en el código con tus credenciales de ThingSpeak.
+![image](https://github.com/user-attachments/assets/35a25bac-58af-4668-91e9-289e4bec4e59)
 
-## Licencia
+![image](https://github.com/user-attachments/assets/63c1b395-908c-4f75-afbf-c2dcdb990c3e)
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
